@@ -1,0 +1,49 @@
+.wrapper{
+    height:600px;
+    width: 1089px;
+    margin: auto;
+    padding: 0px;
+    /* background-color: rgb(80, 199, 247);    */
+}
+.header{
+    background-color: rgb(146, 6, 6);
+    width: auto;
+    height: 100px;
+}
+.container{
+    width: auto;
+    height: 500px;
+    /* background-color: blueviolet; */
+}
+aside{
+    height: 500px;
+    width: 20%;
+    float: left;
+    background-color: rgb(230, 145, 67);
+}
+section{
+    height: 500px;
+    width: 80%;
+    background-color: darkcyan;
+    /* border: 1 px solid ; */
+    float: right;
+}
+.secall{
+    background-color: rgb(165, 14, 14);
+    width: 600px;
+    height: 480px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.secall > .sec1 {
+    width: auto;
+    height: 50%;
+    background-color: rgb(57, 218, 71);
+}
+.secall > .sec2 {
+    width: auto;
+    height: 50%;
+    background-color: rgb(110, 102, 226);
+}
